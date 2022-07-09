@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: LOL Lab # Website name
-baseURL: 'https://lef1008/lol-lab.github.io/' # Website URL
+baseURL: 'https://lef1008/lef1008.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
